@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Analysis
-======
+------
 * Spatial transcriptomics and proteomics data analysis
 * Single-cell analysis
 * Clustering 
@@ -20,7 +20,7 @@ Analysis
 * Correlated data
 
 Reporting
-======
+------
 * Assistance in interpreting results
 * Preparation of figures and text for scientific manuscripts or presentations
 * Peer-review assistance
