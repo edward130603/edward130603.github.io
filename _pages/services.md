@@ -9,13 +9,13 @@ Analysis
 ------
 * Spatial transcriptomics and proteomics data analysis
 * Single-cell analysis
+* Data analysis of epidemiological studies
 * Clustering 
 * Regression 
 * Classification
-* Machine learning
+* Deep learning
 * Predictive modeling
 * Meta-analysis
-* Data analysis of epidemiological studies
 * Survey data
 * Correlated data
 

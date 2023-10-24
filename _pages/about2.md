@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Edward Zhao, Ph.D. is a statistician with over 10 years of experience answering genomics, epidemiology, and other life science questions using statistical approaches. Dr. Zhao is currently a biostatistician at NanoString Technologies, where he is developing statistical analysis methods and pipelines for spatial transcriptomics and proteomics technologies. He has previously worked in academia, pharma, biotech, and government. Dr. Zhao's areas of expertise include spatial statistics, GLMs, mixed models, clustering analysis, supervised learning, and Bayesian statistics.
+Edward Zhao, Ph.D. is a statistician with over 10 years of experience answering genomics, epidemiology, and other life science questions using statistical and machine learning approaches. Dr. Zhao is currently interested in developing statistical analysis methods for spatial transcriptomics and proteomics technologies. He has work experience in academia, pharma, biotech, and government. Dr. Zhao's areas of expertise include spatial statistics, GLMs, mixed models, clustering analysis, supervised learning, and Bayesian statistics.
 
 Education
 ------
-* B.A. in Biochemistry and Mathematical Biology, University of Pennsylvania, 2017
-* M.S. in Chemistry, University of Pennsylvania, 2017
-* Ph.D. in Biostatistics, University of Washington - Seattle, 2022
+* B.A. in Biochemistry and Mathematical Biology, University of Pennsylvania
+* M.S. in Chemistry, University of Pennsylvania
+* Ph.D. in Biostatistics, University of Washington - Seattle
 
 Select Publications
 ------
