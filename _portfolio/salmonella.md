@@ -1,6 +1,6 @@
 ---
-title: "Quantifying differences in bacterial abundance using mixed models"
-excerpt: "Quantifying differences in bacterial abundance using mixed models<br/><img src='/images/iai.png'>"
+title: "Gene knockouts affect salmonella abundance"
+excerpt: "Quantifying differences in bacterial abundance using mixed models<br/><img src='/images/iai.png' width='400' height='auto'>"
 collection: portfolio
 ---
 

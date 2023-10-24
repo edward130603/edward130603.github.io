@@ -15,7 +15,7 @@ Education
 * M.S. in Chemistry, University of Pennsylvania, 2017
 * Ph.D. in Biostatistics, University of Washington - Seattle, 2022
 
-Publications
+Select Publications
 ------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

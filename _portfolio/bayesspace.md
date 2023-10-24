@@ -1,6 +1,6 @@
 ---
 title: "BayesSpace"
-excerpt: "Bayesian model for clustering and enhancing the resolution of spatial gene expression experiments<br/><img src='/images/logo.png'>"
+excerpt: "Bayesian model for clustering and enhancing the resolution of spatial gene expression experiments<br/><img src='/images/logo.png' width='400' height='auto'>"
 collection: portfolio
 ---
 
